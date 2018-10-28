@@ -1,4 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Home](README.md)
+* [All](all.md)
+* [Telegram](telegram.md)
+* [Meta](meta.md)
+
+## Financial inclusion
+
+* [Untitled](financial-inclusion/untitled.md)
 
